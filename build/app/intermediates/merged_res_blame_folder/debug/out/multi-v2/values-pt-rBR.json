@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/lazarus/Documents/projects/exrx/viewer_demo/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "map": [
+                {
+                    "source": "/home/lazarus/.gradle/caches/transforms-3/3ef2a09071aa819bd93c77bc593baec4/transformed/core-1.6.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

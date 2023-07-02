@@ -1,0 +1,4 @@
+#Sun Jul 02 18:03:21 EAT 2023
+base.0=/home/lazarus/Documents/projects/exrx/viewer_demo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

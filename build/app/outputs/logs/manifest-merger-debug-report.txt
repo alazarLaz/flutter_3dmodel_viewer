@@ -1,0 +1,137 @@
+-- Merging decision tree log ---
+application
+INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/main/AndroidManifest.xml:8:5-38:19
+MERGED from [:url_launcher_android] /home/lazarus/Documents/projects/exrx/viewer_demo/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-14:19
+MERGED from [:url_launcher_android] /home/lazarus/Documents/projects/exrx/viewer_demo/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-14:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/lazarus/.gradle/caches/transforms-3/196feb8cdb79668c7b8048b4c720e286/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/lazarus/.gradle/caches/transforms-3/196feb8cdb79668c7b8048b4c720e286/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] /home/lazarus/.gradle/caches/transforms-3/3ef2a09071aa819bd93c77bc593baec4/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /home/lazarus/.gradle/caches/transforms-3/3ef2a09071aa819bd93c77bc593baec4/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lazarus/.gradle/caches/transforms-3/00f1a448f399bad47d1c67f25c1140f8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lazarus/.gradle/caches/transforms-3/00f1a448f399bad47d1c67f25c1140f8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /home/lazarus/.gradle/caches/transforms-3/3ef2a09071aa819bd93c77bc593baec4/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [:url_launcher_android] /home/lazarus/Documents/projects/exrx/viewer_demo/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [:android_intent_plus] /home/lazarus/Documents/projects/exrx/viewer_demo/build/android_intent_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:webview_flutter_android] /home/lazarus/Documents/projects/exrx/viewer_demo/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.webkit:webkit:1.5.0] /home/lazarus/.gradle/caches/transforms-3/27a76ebbbf68065204c387367f72342a/transformed/webkit-1.5.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/lazarus/.gradle/caches/transforms-3/9f6e04f2bd2f8801a8438a2371d119df/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/lazarus/.gradle/caches/transforms-3/bbe9b2697f9786dac140d172c21a7b01/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lazarus/.gradle/caches/transforms-3/4af29ee3a5f9d9fd415cf168ce14058d/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/lazarus/.gradle/caches/transforms-3/00740a5625d1b0e85c7ff0bc860595b0/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/lazarus/.gradle/caches/transforms-3/a1dfb84c53274edc91974e02b1ca07f8/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0-beta04] /home/lazarus/.gradle/caches/transforms-3/196feb8cdb79668c7b8048b4c720e286/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.customview:customview:1.0.0] /home/lazarus/.gradle/caches/transforms-3/b1be8e0df1aeaf11cf451beaf75d6a01/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /home/lazarus/.gradle/caches/transforms-3/3ef2a09071aa819bd93c77bc593baec4/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/lazarus/.gradle/caches/transforms-3/8823af5bf0624105d1000f3ef3e14a99/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/lazarus/.gradle/caches/transforms-3/1cd6247f97d4abe485e164be38fe1d17/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/lazarus/.gradle/caches/transforms-3/22b3682feef7bb145c0ae34dfc5e6aa3/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/lazarus/.gradle/caches/transforms-3/8ccec9596b55ceff727e8f4823edcbde/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/lazarus/.gradle/caches/transforms-3/577b6b79d942f95b3cb668c64d723f72/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/lazarus/.gradle/caches/transforms-3/60b85a333299c81ce19ea034c322d063/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lazarus/.gradle/caches/transforms-3/00f1a448f399bad47d1c67f25c1140f8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/lazarus/.gradle/caches/transforms-3/8b84ea32ec8bf5ed4e11eed8f738f0a1/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/lazarus/.gradle/caches/transforms-3/5390c08e99372faed304861215aa8554/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/main/AndroidManifest.xml:2:5-52
+		INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/main/AndroidManifest.xml
+MERGED from [:url_launcher_android] /home/lazarus/Documents/projects/exrx/viewer_demo/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] /home/lazarus/Documents/projects/exrx/viewer_demo/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:android_intent_plus] /home/lazarus/Documents/projects/exrx/viewer_demo/build/android_intent_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:android_intent_plus] /home/lazarus/Documents/projects/exrx/viewer_demo/build/android_intent_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] /home/lazarus/Documents/projects/exrx/viewer_demo/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] /home/lazarus/Documents/projects/exrx/viewer_demo/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.webkit:webkit:1.5.0] /home/lazarus/.gradle/caches/transforms-3/27a76ebbbf68065204c387367f72342a/transformed/webkit-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.5.0] /home/lazarus/.gradle/caches/transforms-3/27a76ebbbf68065204c387367f72342a/transformed/webkit-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/lazarus/.gradle/caches/transforms-3/9f6e04f2bd2f8801a8438a2371d119df/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/lazarus/.gradle/caches/transforms-3/9f6e04f2bd2f8801a8438a2371d119df/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/lazarus/.gradle/caches/transforms-3/bbe9b2697f9786dac140d172c21a7b01/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/lazarus/.gradle/caches/transforms-3/bbe9b2697f9786dac140d172c21a7b01/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lazarus/.gradle/caches/transforms-3/4af29ee3a5f9d9fd415cf168ce14058d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lazarus/.gradle/caches/transforms-3/4af29ee3a5f9d9fd415cf168ce14058d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/lazarus/.gradle/caches/transforms-3/00740a5625d1b0e85c7ff0bc860595b0/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/lazarus/.gradle/caches/transforms-3/00740a5625d1b0e85c7ff0bc860595b0/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/lazarus/.gradle/caches/transforms-3/a1dfb84c53274edc91974e02b1ca07f8/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/lazarus/.gradle/caches/transforms-3/a1dfb84c53274edc91974e02b1ca07f8/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/lazarus/.gradle/caches/transforms-3/196feb8cdb79668c7b8048b4c720e286/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/lazarus/.gradle/caches/transforms-3/196feb8cdb79668c7b8048b4c720e286/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/lazarus/.gradle/caches/transforms-3/b1be8e0df1aeaf11cf451beaf75d6a01/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/lazarus/.gradle/caches/transforms-3/b1be8e0df1aeaf11cf451beaf75d6a01/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /home/lazarus/.gradle/caches/transforms-3/3ef2a09071aa819bd93c77bc593baec4/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /home/lazarus/.gradle/caches/transforms-3/3ef2a09071aa819bd93c77bc593baec4/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/lazarus/.gradle/caches/transforms-3/8823af5bf0624105d1000f3ef3e14a99/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/lazarus/.gradle/caches/transforms-3/8823af5bf0624105d1000f3ef3e14a99/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/lazarus/.gradle/caches/transforms-3/1cd6247f97d4abe485e164be38fe1d17/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/lazarus/.gradle/caches/transforms-3/1cd6247f97d4abe485e164be38fe1d17/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/lazarus/.gradle/caches/transforms-3/22b3682feef7bb145c0ae34dfc5e6aa3/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/lazarus/.gradle/caches/transforms-3/22b3682feef7bb145c0ae34dfc5e6aa3/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/lazarus/.gradle/caches/transforms-3/8ccec9596b55ceff727e8f4823edcbde/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/lazarus/.gradle/caches/transforms-3/8ccec9596b55ceff727e8f4823edcbde/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /home/lazarus/.gradle/caches/transforms-3/577b6b79d942f95b3cb668c64d723f72/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/lazarus/.gradle/caches/transforms-3/577b6b79d942f95b3cb668c64d723f72/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/lazarus/.gradle/caches/transforms-3/60b85a333299c81ce19ea034c322d063/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/lazarus/.gradle/caches/transforms-3/60b85a333299c81ce19ea034c322d063/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lazarus/.gradle/caches/transforms-3/00f1a448f399bad47d1c67f25c1140f8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lazarus/.gradle/caches/transforms-3/00f1a448f399bad47d1c67f25c1140f8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/lazarus/.gradle/caches/transforms-3/8b84ea32ec8bf5ed4e11eed8f738f0a1/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/lazarus/.gradle/caches/transforms-3/8b84ea32ec8bf5ed4e11eed8f738f0a1/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/lazarus/.gradle/caches/transforms-3/5390c08e99372faed304861215aa8554/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/lazarus/.gradle/caches/transforms-3/5390c08e99372faed304861215aa8554/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /home/lazarus/Documents/projects/exrx/viewer_demo/android/app/src/debug/AndroidManifest.xml:6:22-64
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] /home/lazarus/Documents/projects/exrx/viewer_demo/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-13:74
+	android:exported
+		ADDED from [:url_launcher_android] /home/lazarus/Documents/projects/exrx/viewer_demo/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
+	android:theme
+		ADDED from [:url_launcher_android] /home/lazarus/Documents/projects/exrx/viewer_demo/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-71
+	android:name
+		ADDED from [:url_launcher_android] /home/lazarus/Documents/projects/exrx/viewer_demo/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /home/lazarus/.gradle/caches/transforms-3/196feb8cdb79668c7b8048b4c720e286/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/lazarus/.gradle/caches/transforms-3/196feb8cdb79668c7b8048b4c720e286/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/lazarus/.gradle/caches/transforms-3/196feb8cdb79668c7b8048b4c720e286/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /home/lazarus/.gradle/caches/transforms-3/196feb8cdb79668c7b8048b4c720e286/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/lazarus/.gradle/caches/transforms-3/196feb8cdb79668c7b8048b4c720e286/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/lazarus/.gradle/caches/transforms-3/196feb8cdb79668c7b8048b4c720e286/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
